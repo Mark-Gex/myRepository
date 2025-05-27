@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='GB2312'?>
+<DATA000120202409><area><areaid>b0011</areaid><item><PK><key>a02</key><intervaltype>3</intervaltype></PK><value>12.00</value><remark>指标2备注</remark></item><item><PK><key>a03</key><intervaltype>3</intervaltype></PK><value>14.00</value><remark>指标3备注</remark></item><item><PK><key>a04</key><intervaltype>3</intervaltype></PK><value>17.00</value><remark>指标4备注</remark></item><item><PK><key>a01</key><intervaltype>3</intervaltype></PK><value>11.00</value><remark>指标1备注</remark></item></area></DATA000120202409>
